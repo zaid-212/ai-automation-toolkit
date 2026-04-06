@@ -1,0 +1,4 @@
+- Auto reply to website inquiries
+- Lead capture chatbot flow
+- Follow-up message automation
+- FAQ automation system
