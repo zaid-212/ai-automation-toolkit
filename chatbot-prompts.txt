@@ -1,0 +1,5 @@
+Customer: What are your prices?
+Reply: Our pricing depends on your requirements. Please share your details and we’ll provide a custom quote.
+
+Customer: Do you offer consultations?
+Reply: Yes, we offer free initial consultations. Would you like to book a call?
